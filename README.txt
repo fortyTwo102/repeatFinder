@@ -1,0 +1,11 @@
+- Open Command Prompt
+- Type and Run "python setup.py install"
+- Type and Run "python main.py"
+- Enter your username when prompted.
+- Wait for Chrome (or any browser) to open.
+- Login using your Spotify credentials.
+- Copy the URL that has been opened. (Should be like "localhost:8080...")
+- Paste it in the Command Prompt after "Enter the URL you were redirected to:"
+- Wait for the download to start.
+- If the download gets stuck, press Enter key.
+
